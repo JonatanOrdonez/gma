@@ -1,0 +1,54 @@
+03;Ingeniería de Sistemas
+1;08273;Lógica y Argumentación;4;3;
+1;08272;Álgebra y Funciones;6;4;
+1;09702;Introduccion a la Ingenieria y TIC;3;2;
+1;01302;Oganizaciones;3;2;
+1;16001;Comunicacion Escrita I;4;3;
+2;08091;Álgebra Lineal;4;3;08273-08272
+2;08274;Cálculo una variable;5;4;08272
+2;21108;Electiva en ciencias biologicas;3;3;
+2;09703;Algoritmos y programacion I;5;3;
+2;16002;Comunicacion Escrita II;4;3;16001
+3;08275;Cálculo varias variables;5;4;08274-08091
+3;11238;Fisica y laboratorio;4;4;08274
+3;08131;Teoria de probabilidades;4;3;08274
+3;09704;Algoritmos y programacion II;5;3;09703
+3;06221;Principios de economia;3;3;08274
+4;11239;Electridad-Magnetismo y laboratorio;5;4;11238
+4;08171;Inferencia Estadistica;4;3;08131
+4;09441;Ingenieria de procesos;3;2;09704
+4;09687;Algoritmos y Estructuras de datos;5;3;09704
+4;04170;Contabilidad y costos;4;3;06221
+4;02222;Electiva en humanidades y ciencias Soc I;3;3;16002
+5;08276;Matematica Discreta;4;3;08275
+5;23121;Electiva en Ciencia,Tecnologia y Sociedad I;4;2;
+5;09707;Proyecto Integrador I;3;3;09687
+5;09706;Modelado de sistemas de infomacion;4;2;09441
+5;04121;Ingenieria Economica;4;4;04170
+5;03097;Fundamentos de mercadeo;3;3;01302
+6;08289;Informatica teorica;4;3;08276
+6;11121;Lógica Digital y Laboratorio;4;4;08276
+6;09705;Ingenieria de software;4;3;09441-09707
+6;09551;Bases de datos;4;3;08276-09706
+6;09711;Redes comunicaciones y laboratorio;4;4;09687
+7;09481;Inteligencia artificial;4;3;08276
+7;11313;Arquitectura de computadores y laboratorio;4;3;11121
+7;09710;Arquitectura de software;4;3;09705
+7;09331;Gerencia de proyectos de TI;4;3;
+7;09739;Computacion en internet;4;3;09711
+7;05214;Produccion y cadenas de abastecimiento;4;3;04121-03097
+8;09624;Profesional electiva I;4;3;
+8;09627;Sistemas Operacionales ;4;3;11313
+8;09635;Proyecto de grado I;4;3;09710-09331
+8;09713;Proyecto Integrado II;4;3;09710-09331
+8;15000;Creativad empresarial;4;3;05214
+8;02223;Electiva en Ciencia,Tecnologia y Sociedad II;4;2;
+9;01303;Liderazgo;3;3;
+9;09644;Profesional Electiva III;4;3;
+9;09621;Proyecto de grado II;4;3;09635
+9;09625;Profesional electiva II;4;3;
+9;09714;Seguridad;4;3;
+9;02224;Electiva en Ciencia,Tecnologia y Sociedad II;4;2;
+10;10094;Fundamentos de derecho constitucional;3;3;
+10;24050;Electiva en etica;4;3;
+10;09634;Practica empresarial;5;4;09713

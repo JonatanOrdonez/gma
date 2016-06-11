@@ -1,0 +1,1 @@
+La aplicación puede ser cargada e iniciada por medio de Eclipse.
